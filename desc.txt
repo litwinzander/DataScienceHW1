@@ -1,0 +1,1 @@
+This contains a combined PDF ('HW1.pdf', part one as pdf 'HW 1.pdf', and part 2 as a jupyter notebook
